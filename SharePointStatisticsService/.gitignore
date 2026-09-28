@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+ 
+# Build output
+bin/
+obj/
+ 
+# User-specific Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+ 
+# Local application configuration
+appsettings.json
